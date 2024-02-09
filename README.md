@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonson-ncube
+- 👋 Hi, I’m @jonson
 - 👀 I’m interested in things
 - 🌱 I’m currently learning code things
 - 💞️ I’m looking to collaborate on nothing atm
