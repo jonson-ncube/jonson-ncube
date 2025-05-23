@@ -8,10 +8,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonson-ncube&layout=compact&theme=dark)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=jonson-ncube&theme=github-dark)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jonson-ncube&theme=darkhub)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=jonson-ncube&color=orange)
 
 
