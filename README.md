@@ -8,8 +8,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonson-ncube&layout=compact&theme=dark)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=jonson-ncube&color=orange)
-
 
 <!---
 jonson-ncube/jonson-ncube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
