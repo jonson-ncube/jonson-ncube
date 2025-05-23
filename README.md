@@ -1,5 +1,3 @@
-- 👋 Hello
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=jonson-ncube&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 
 <!---
