@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning code things
 - 💞️ I’m looking to collaborate on nothing atm
 - 📫 How to reach me ??
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonson-ncube&show_icons=true&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jonson-ncube&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 
@@ -15,7 +14,6 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jonson-ncube&color=orange)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!---
 jonson-ncube/jonson-ncube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
